@@ -121,7 +121,7 @@ attach(combined_gdp_1)
 hist(gdp_us_dollars)
 ```
 
-![](CaseStudy1_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
+![](https://github.com/jjkleintx/CaseStudyRepo/blob/master/Images/CaseStudy1Hist.png)<!-- -->
 
 ```r
 detach(combined_gdp_1)
@@ -184,7 +184,7 @@ ggplot(combined_gdp,na.rm=FALSE, aes(country_name, gdp_us_dollars, color=factor(
 ## Warning: Removed 30 rows containing missing values (geom_point).
 ```
 
-![alt tag](CaseStudy1_files/figure-html/unnamed-chunk-15-1.png)<!-- -->
+![](https://github.com/jjkleintx/CaseStudyRepo/blob/master/Images/CaseStudy1Scatter.png)<!-- -->
 
 
 
